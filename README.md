@@ -24,6 +24,8 @@ Download and run the installer in the [**Releases**](https://github.com/celestar
 * `sandbox.minefun.io` Support
 * Zoom
 ### Planned
+* Badges
+* Custom CSS
 * Colourful Chests
 * Hunger Value
 * Import/Export Client Settings
