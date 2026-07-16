@@ -14,6 +14,7 @@ Download the installer on the [**Releases**](https://github.com/celestarminefun/
 
 ## Features
 * Auto Updates
+* Built-in Ad Blocker
 * Custom Crosshair
 * Custom Mod Menu
 * Discord Rich Presence
@@ -21,6 +22,12 @@ Download the installer on the [**Releases**](https://github.com/celestarminefun/
 * Skip Loading Screen
 * `sandbox.minefun.io` Support
 * Zoom
+### Planned
+* Colourful Chests
+* Hunger Value
+* Import/Export Client Settings
+* Keystrokes
+* QOL Features
 
 ## Keybinds
 
