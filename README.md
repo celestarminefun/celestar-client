@@ -20,7 +20,6 @@ Download and run the installer in the [**Releases**](https://github.com/celestar
 * Custom Mod Menu
 * Discord Rich Presence
 * Join Link Button
-* Skip Loading Screen
 * `sandbox.minefun.io` Support
 * Zoom
 ### Planned
