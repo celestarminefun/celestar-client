@@ -15,6 +15,7 @@ Download the installer on the [**Releases**](https://github.com/celestarminefun/
 
 | Key | Action |
 |-----|--------|
+| `G` | Open Client Menu |
 | `F4` | Return to `https://minefun.io` |
 | `F5` | Reload |
 | `F6` | Load URL |
