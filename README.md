@@ -10,7 +10,7 @@
 
 ## Download
 ### ⚠ Client has not been released yet
-Download the installer on the [**Releases**](https://github.com/celestarminefun/celestar-client/releases) page.
+Download and run the installer in the [**Releases**](https://github.com/celestarminefun/celestar-client/releases) page.
  * `.exe` for Windows
 
 ## Features
