@@ -7,3 +7,17 @@
 [![Platforms](https://img.shields.io/badge/Windows-blue?style=for-the-badge&label=Platform&logo=linux&logoColor=white)](https://github.com/celestarminefun/celestar-client/releases)
 
 </div>
+
+## Download
+Download the installer on the [**Releases**](https://github.com/celestarminefun/celestar-client/releases) page for Windows.
+
+## Keybinds
+
+| Key | Action |
+|-----|--------|
+| `F4` | Return to `https://minefun.io` |
+| `F5` | Reload |
+| `F6` / Join Link Button | Load URL |
+| `F7` | Copy URL |
+| `F11` | Toggle Fullscreen |
+| `F12` | Open DevTools |
