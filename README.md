@@ -9,7 +9,7 @@
 </div>
 
 ## Download
-Download and run the installer in the [**Releases**](https://github.com/celestarminefun/celestar-client/releases) page.
+Download and run the installer in [**here**](https://github.com/celestarminefun/celestar-client/releases).
  * `.exe` for Windows
 
 ## Features
@@ -30,6 +30,14 @@ Download and run the installer in the [**Releases**](https://github.com/celestar
 * Import/Export Client Settings
 * Keystrokes
 * QOL Features
+
+## Comparison
+| Features | Celestar Client | Official App |
+|----------|-----------------|--------------|
+| Ad Blocker | ✅ | Extension Required |
+| Join Link Button | ✅ | ❌ |
+| `sandbox.minefun.io` Support | ✅ | ❌ |
+
 
 ## Keybinds
 
