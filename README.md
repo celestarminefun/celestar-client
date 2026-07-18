@@ -1,7 +1,6 @@
 <div align="center">
   
-<img src="https://imgur.com/cE4wLMW" width="30" height="30" alt="Celestar Client"/>
-#  Celestar Client
+# <img src="https://imgur.com/cE4wLMW.png" width="30" height="30" alt="Celestar Client"/> Celestar Client
 ### An unofficial, 100% safe Electron client for MineFun.io by thetalkingcat
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qPefeST9Us)
@@ -10,7 +9,6 @@
 </div>
 
 ## Download
-### ⚠ Client has not been released yet
 Download and run the installer in the [**Releases**](https://github.com/celestarminefun/celestar-client/releases) page.
  * `.exe` for Windows
 
