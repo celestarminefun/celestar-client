@@ -27,6 +27,8 @@ Download and run the installer in [**here**](https://github.com/celestarminefun/
 * Badges
 * Custom CSS
 * Colourful Chests
+* Damage Vignette
+* FPS / CPS Counter
 * Hunger Value
 * Import/Export Client Settings
 * Keystrokes
