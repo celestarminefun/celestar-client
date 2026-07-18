@@ -33,6 +33,7 @@ Download and run the installer in [**here**](https://github.com/celestarminefun/
 * Import/Export Client Settings
 * Keystrokes
 * QOL Features
+* Texture Pack
 
 ## Comparison
 | Features | Celestar Client | Official App |
