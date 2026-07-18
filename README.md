@@ -36,6 +36,7 @@ Download and run the installer in [**here**](https://github.com/celestarminefun/
 |----------|-----------------|--------------|
 | Ad Blocker | ✅ | Extension Required |
 | Join Link Button | ✅ | ❌ |
+| Mod Menu | ✅ | ❌ |
 | `sandbox.minefun.io` Support | ✅ | ❌ |
 
 
