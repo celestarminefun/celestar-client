@@ -14,7 +14,9 @@
 
 ## Download
 Download and run the installer in [**here**](https://github.com/celestarminefun/celestar-client/releases).
- * `.exe` for Windows
+* `.exe` for Windows
+
+When you see SmartScreen ("Windows protect your PC") warning, click **More info** -> **Run anyway**.
 
 ## Features
 * Auto Fullscreen
