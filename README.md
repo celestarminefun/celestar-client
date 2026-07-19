@@ -3,16 +3,19 @@
 # <img src="https://imgur.com/cE4wLMW.png" width="30" height="30" alt="Celestar Client"/> Celestar Client
 ### An unofficial, 100% safe Electron client for MineFun.io by thetalkingcat
 
+![](https://img.shields.io/github/v/release/celestarminefun/celestar-client)
 ![](https://img.shields.io/github/downloads/celestarminefun/celestar-client/total) 
+![](https://img.shields.io/github/downloads/celestarminefun/celestar-client/latest/total)
 ![](https://img.shields.io/github/license/celestarminefun/celestar-client)
 ![](https://img.shields.io/github/last-commit/celestarminefun/celestar-client)
+[![](https://img.shields.io/discord/1471833466994954393?color=blue&label=discord)](https://discord.gg/qPefeST9Us)
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qPefeST9Us)
 [![Platforms](https://img.shields.io/badge/Windows-blue?style=for-the-badge&label=Platform&logo=linux&logoColor=white)](https://github.com/celestarminefun/celestar-client/releases)
 
 </div>
 
-## Download
+## [Download](https://github.com/celestarminefun/celestar-client/releases)
 Download and run the installer in [**here**](https://github.com/celestarminefun/celestar-client/releases).
 * `.exe` for Windows
 
