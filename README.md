@@ -15,6 +15,7 @@ Download and run the installer in [**here**](https://github.com/celestarminefun/
 ## Features
 * Auto Fullscreen
 * Auto Updates
+* Badges
 * Built-in Ad Blocker
 * Custom Crosshair
 * Custom Mod Menu
@@ -22,9 +23,9 @@ Download and run the installer in [**here**](https://github.com/celestarminefun/
 * Join Link Button
 * `sandbox.minefun.io` Support
 * Screenshot
+* Texture Pack
 * Zoom
 ### Planned
-* Badges
 * Custom CSS
 * Colourful Chests
 * Damage Vignette
@@ -33,7 +34,6 @@ Download and run the installer in [**here**](https://github.com/celestarminefun/
 * Import/Export Client Settings
 * Keystrokes
 * QOL Features
-* Texture Pack
 
 ## Comparison
 | Features | Celestar Client | Official App |
